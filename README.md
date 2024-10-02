@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Git, Linux and terminal
 - 💞️ I’m looking to collaborate on easy python projects
 - 📫 How to reach me: tg @vomit663
-- 😄 Pronouns: fuck liberty
+- 😄 Pronouns: no.
 - ⚡ Fun fact: i hate people
 
 <!---
